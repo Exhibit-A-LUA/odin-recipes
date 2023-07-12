@@ -5,9 +5,16 @@ img {
   margin-right: auto;
 }
 
+
+
 h1,h2 {
   text-align: center;
 }
+
+/* h1 {
+  position: fixed;
+  text-align: center; 
+} */
 
 .scrolling{
   /* width: 200px; */
