@@ -17,3 +17,17 @@ table, th, td {
 th, td {
   background-color: #96D4D4; text-align: center;
 }
+
+ul, ol {
+  /* white-space: nowrap; */
+  /* height: 2em; */
+  /* width: 100%; */
+}
+
+li {
+  /* list-style-type: none; */
+  width: 800px;
+  /* overflow-x: auto; change to hidden if that's what you want */
+  /* float: left; */
+  /* margin-right: 10px; */
+}
