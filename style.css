@@ -27,7 +27,7 @@ h1 {
   overflow-y: auto;
 }
 
-.scrolling a {
+.scrolling h3 {
   background-color: #eee;
   color: black;
   display: block;
@@ -35,6 +35,13 @@ h1 {
   text-decoration: none;
 }
 
+.scrolling a {
+  background-color: #eee;
+  color: black;
+  display: block;
+  padding: 12px;
+  text-decoration: none;
+}
 .scrolling a:hover {
   background-color: #ccc;
 }
